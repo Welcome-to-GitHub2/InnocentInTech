@@ -5,7 +5,7 @@
 
 - <b> </b>
   
-  - [Install software in a Linux distribution (Tools of the Trade: Linux and SQL)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Install software in a Linux distribution (Tools of the Trade: Linux and SQL)](https://github.com/Welcome-to-GitHub2/Installing_software_in_Linux_distribution/tree/main)
   - [Finding Files with Linux (Tools of the Trade: Linux and SQL)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [File Permissions in Linux (Tools of the Trade: Linux and SQL)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Apply Filters to SQL queries (Tools of the Trade: Linux and SQL)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
