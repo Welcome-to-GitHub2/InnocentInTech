@@ -11,6 +11,7 @@
   - [Apply Filters to SQL queries (Tools of the Trade: Linux and SQL)](https://github.com/Welcome-to-GitHub2/SQL_filters/tree/main)
   - [Examine alerts, logs, and rules with Suricata (Sound the Alarm: Detection and Response)](https://github.com/Welcome-to-GitHub2/Examine_alerts_logs_and_rules/tree/main)
   - [Analyzing packets with Wireshark (Sound the Alarm: Detection and Response)](https://github.com/Welcome-to-GitHub2/Analyze_packets_with_Wireshark/tree/main)
+  - [Investigating ransomware (Intro to Digital Forensics)](https://github.com/Welcome-to-GitHub2/Ransomware_Digital_Forensic/tree/main)
 
 
 <h2>🏅Certification</h2>
