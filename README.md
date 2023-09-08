@@ -6,7 +6,7 @@
 - <b> </b>
   
   - [Install software in a Linux distribution (Tools of the Trade: Linux and SQL)](https://github.com/Welcome-to-GitHub2/Installing_software_in_Linux_distribution/tree/main)
-  - [Finding Files with Linux (Tools of the Trade: Linux and SQL)](https://github.com/Welcome-to-GitHub2/Finding_Files_With_Linux#readme)
+  - [Finding Files with Linux (Tools of the Trade: Linux and SQL)](https://github.com/Welcome-to-GitHub2/Finding_Files_With_Linux/tree/main)
   - [File Permissions in Linux (Tools of the Trade: Linux and SQL)](https://github.com/Welcome-to-GitHub2/File_permissions_in_Linux/tree/main)
   - [Apply Filters to SQL queries (Tools of the Trade: Linux and SQL)](https://github.com/Welcome-to-GitHub2/SQL_filters/tree/main)
   - [Examine alerts, logs, and rules with Suricata (Sound the Alarm: Detection and Response)](https://github.com/Welcome-to-GitHub2/Examine_alerts_logs_and_rules/tree/main)
