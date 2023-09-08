@@ -22,7 +22,7 @@
 
 [<img align="left" alt="thabo-innocent-mohlala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: linkedin.com/in/thabo-innocent-mohlala-201889143
+[linkedin]:[ linkedin.com/in/thabo-innocent-mohlala-201889143](https://www.linkedin.com/in/thabo-innocent-mohlala-201889143?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbXCGynPhSyK9KeFt%2F0DfjQ%3D%3D)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
